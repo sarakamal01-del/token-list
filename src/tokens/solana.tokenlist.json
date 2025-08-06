@@ -34523,6 +34523,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "79t4di3xiwHdGxuczHiT36pGPshbpALJns1aUMXqc2K5",
+      "symbol": "C",
+      "name": "C",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/sarakamal01-del/kali/refs/heads/main/c.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
